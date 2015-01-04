@@ -1,0 +1,36 @@
+---
+author: elmavericko
+comments: true
+date: 2013-01-28 22:01:40+00:00
+layout: post
+slug: meeting-01-30-2013
+title: '[Meeting] 01-30-2013'
+wordpress_id: 559
+categories:
+- Meeting Announcement
+---
+
+Good evening, SIT'ers!  
+
+  
+
+Remember that SwampSec thing we've mentioned during the meetings?  
+
+It's finally here, and that's where we'll be for this week's SIT meeting!  
+
+  
+
+Join us for a $beverage and meet some really cool people from the local InfoSec community.  
+
+  
+
+  
+
+[Location and Time]  
+
+The Bull Downtown  
+
+18 Southwest 1st Avenue, Gainesville  
+
+7:00-10:00pm (or whenever the last person leaves)  
+

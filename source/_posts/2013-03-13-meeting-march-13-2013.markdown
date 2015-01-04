@@ -1,0 +1,51 @@
+---
+author: elmavericko
+comments: true
+date: 2013-03-13 05:00:10+00:00
+layout: post
+slug: meeting-march-13-2013
+title: Meeting - March 13, 2013
+wordpress_id: 628
+categories:
+- Meeting Announcement
+---
+
+Good morning, SIT'ers!
+
+Tonight, we're starting our crash course series on CTF preparation. The
+UCSB iCTF is March 22nd! That's next Friday!
+If you plan to participate... you won't want to miss the next two meetings!
+
+During this week's meeting, we'll teach you how to use the different
+internal collaboration systems that we've set up. This will play a big
+part in making sure the team operates smoothly.
+
+You'll get a chance to see the many different roles that need to be
+filled during a CTF. Job assignment is critical in making sure we have
+at least one person working in a particular area at all times.
+
+Because some of you have expressed concern with the iCTF having a
+network component, we'll also introduce the network mapping tool (nmap).
+The purpose, for this meeting, will be to identify potential security
+issues with your systems and patch them up before the CTF.
+
+
+
+**Stuff to Bring**
+- Laptop running Linux, and with an Ethernet port
+- IRC client: irssi/weechat/etc. (Linux) or Chatzilla (Firefox Add-in)
+- PGP public key - you *will* need this and we can show you how to
+generate one
+
+
+**Ethics Agreement**
+Just a reminder... if you haven’t yet signed an the ethics agreement
+posted at [http://ufhack.org/ethics/](http://ufhack.org/ethics/), please bring a copy of the
+agreement, printed out and signed, to tonight’s meeting.
+
+
+**Time and Location**
+Wednesday
+8:00pm – 10:00pm
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

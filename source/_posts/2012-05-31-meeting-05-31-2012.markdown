@@ -1,0 +1,29 @@
+---
+author: elmavericko
+comments: true
+date: 2012-05-31 20:13:54+00:00
+layout: post
+slug: meeting-05-31-2012
+title: '[Meeting]  05-31-2012'
+wordpress_id: 92
+categories:
+- Meeting Announcement
+tags:
+- capture the flag
+- ctf
+- def con
+- qualifier
+- quals
+- registration
+---
+
+If you plan to participate in the DEF CON CTF Qualifier this weekend (starts tomorrow at 8:00PM), and you have not yet registered… you MUST be at tonight’s meeting. Registration closes at 8:00PM tonight! If you’ll be participating remotely, you will need to e-mail me with a request for the team hash.
+
+John Sawyer (InGuardians) has graciously set up a collaboration box for us. I will distribute the connection details at tonight’s meeting.
+
+Erik Cabetas (Include Security) will be sponsoring our weekend hackery with 0xBAADF00D (pizza!)
+
+**Location & Time**:
+6:00PM
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

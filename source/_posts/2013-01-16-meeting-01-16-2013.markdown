@@ -1,0 +1,45 @@
+---
+author: elmavericko
+comments: true
+date: 2013-01-16 03:58:25+00:00
+layout: post
+slug: meeting-01-16-2013
+title: '[Meeting] 01-16-2013'
+wordpress_id: 555
+categories:
+- Meeting Announcement
+---
+
+Welcome back, SIT’ers!  
+
+  
+
+We hope you had a great holiday and are refreshed for a new semester of fun and hacking. This week will be the first meeting of the semester, and it will be all about introductions!  
+
+  
+
+First off, we’re going to talk about the Student Infosec Team and hacking in general. And maybe get a feeling of what members want to get out of being a part of SIT, and what they’re interested in learning.  
+
+  
+
+We will also talk about what we’re going to be doing this semester: CTF competitions! What are CTFs, and what do we need in order to participate and profit. And have fun in the process!  
+
+  
+
+We will introduce one of our famous members (alias: cvk), who will chat with you about how he got started with hacking, how he got involved with SIT, what he learned while part of the club, and how he got a career in infosec.  
+
+  
+
+Finally, we want you to get acquainted with two of the best lines of communication with fellow SIT’ers and members of the infosec community: the SIT-L mailing list and our IRC channel. If you do not know what those are, fear not: we will go over how to use them.  
+
+  
+
+  
+
+[Time and Location]  
+
+8:00pm-10:00pm  
+
+1151 McCarty Hall A  
+
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

@@ -1,0 +1,23 @@
+---
+author: elmavericko
+comments: true
+date: 2012-09-24 20:06:27+00:00
+layout: post
+slug: meeting-09-24-2012
+title: '[Meeting] 09-24-2012'
+wordpress_id: 478
+categories:
+- Meeting Announcement
+---
+
+Good afternoon, hackers!
+
+Tonight, we're going to have fun with some hands-on web exploits!
+Please come prepared with a laptop (preferably running some form of Linux).
+
+*** Also... please note the time change for this meeting.
+
+**Location and time**:
+6:30pm-8:30pm
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

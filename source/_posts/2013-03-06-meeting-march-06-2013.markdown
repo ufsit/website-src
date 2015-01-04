@@ -1,0 +1,21 @@
+---
+author: elmavericko
+comments: true
+date: 2013-03-06 22:12:56+00:00
+layout: post
+slug: meeting-march-06-2013
+title: Meeting - March 06, 2013
+wordpress_id: 626
+categories:
+- Meeting Announcement
+---
+
+Good evening, SIT'ers!
+
+Tonight's meeting will be very informal.
+Discussion will center around the upcoming UCSB iCTF (March 22nd).
+
+I will not be able to attend on-site, due to a nasty head cold I've been
+battling since Friday. I *might* be able to participate via Google Hangout.
+
+Mauricio will take over running things tonight.

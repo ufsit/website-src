@@ -1,0 +1,15 @@
+---
+author: elmavericko
+comments: true
+date: 2012-05-16 00:28:29+00:00
+layout: post
+slug: meeting-05-17-2012
+title: '[Meeting] 05-17-2012'
+wordpress_id: 87
+categories:
+- Meeting Announcement
+---
+
+There will be a meeting this Thursday in the McCarty A 1151 conference room. Discussion will begin at 6:00pm.
+
+Topic(s) to be announced.

@@ -1,0 +1,27 @@
+---
+author: elmavericko
+comments: true
+date: 2012-06-07 18:30:40+00:00
+layout: post
+slug: meeting-06-07-2012
+title: '[Meeting] 06-07-2012'
+wordpress_id: 98
+categories:
+- Meeting Announcement
+tags:
+- capture the flag
+- ctf
+- def con
+- qualifier
+- quals
+- results
+---
+
+Tonight, we'll be discussing the results from last weekend's DEF CON CTF Qualifier.
+
+You'll get a chance to see some of the crazy challenges DDTek gave us, and learn how some people solved them.
+
+**Location & Time
+**6:00PM
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

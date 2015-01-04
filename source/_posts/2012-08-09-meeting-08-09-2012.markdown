@@ -1,0 +1,25 @@
+---
+author: elmavericko
+comments: true
+date: 2012-08-09 21:28:17+00:00
+layout: post
+slug: meeting-08-09-2012
+title: '[Meeting] 08-09-2012'
+wordpress_id: 166
+categories:
+- Meeting Announcement
+tags:
+- owasp
+- vm hacking
+---
+
+Good evening, hackers!
+
+Tonight we’re going to poke at the OWASP Broken Web Apps VM that John told us about last week.
+Bring a computer with an Ethernet jack and preferably some flavor of Linux installed :)
+
+
+**Location & Time**
+6:00pm - 8:00pm
+1151 McCarty Hall A
+http://campusmap.ufl.edu/?loc=0495

@@ -1,0 +1,89 @@
+---
+author: andrewuf
+comments: true
+date: 2014-02-11 18:11:51+00:00
+layout: post
+slug: '891'
+title: Meeting - February 12, 2014 | Cracking SSH with Hydra
+wordpress_id: 891
+categories:
+- Meeting Announcement
+---
+
+Hey SITers!
+
+
+
+
+
+
+
+This week, we'll be going over how to crack ssh passwords with Hydra! Hydra is a very powerful password cracker that allows for dictionary attacks against popular services (in this case the ssh service we covered last week.)
+
+
+
+
+
+
+
+Also, as a heads up, next week we will have John Sawyer from InGuardians (and the founder of UFSIT) coming to our meeting to give a presentation on pen testing so be sure to mark next week's meeting on your calendars!
+
+
+
+
+
+
+
+[Be Social!]
+
+
+
+
+IRC: #ufsit on Freenode
+
+
+
+
+Website: [http://www.ufsit.org](http://www.ufsit.org/)
+
+
+
+
+Facebook: [https://www.facebook.com/ufsit](https://www.facebook.com/ufsit)
+
+
+
+
+
+
+
+
+
+
+[Time and Location]
+
+
+
+
+Wednesday 7:00pm-9:00pm
+
+
+
+
+1151 McCarty Hall A
+
+
+
+
+
+
+
+[Stuff to Bring]
+
+
+
+
+- Laptop with Ubuntu server installed
+
+
+

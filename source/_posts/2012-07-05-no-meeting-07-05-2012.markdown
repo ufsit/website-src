@@ -1,0 +1,18 @@
+---
+author: elmavericko
+comments: true
+date: 2012-07-05 20:12:01+00:00
+layout: post
+slug: no-meeting-07-05-2012
+title: '[No Meeting] 07-05-2012'
+wordpress_id: 141
+categories:
+- Meeting Announcement
+---
+
+Hackers…
+
+I’m sad to say that I must cancel yet another hacking meeting, due to wedding stuff.
+Casey and I have to meet with our photographer tonight at 5:30pm.
+
+We’ll regroup for a fun-filled discussion next week!

@@ -1,0 +1,45 @@
+---
+author: andrewuf
+comments: true
+date: 2014-07-29 01:37:14+00:00
+layout: post
+slug: '928'
+title: Regular Meetings Resume September 3, 2014
+wordpress_id: 928
+categories:
+- Meeting Announcement
+---
+
+Hey SITers!
+
+
+
+
+
+We will be resuming normal UFSIT meetings on September 3, 2014. For now, come visit our IRC channel on #ufsit on Freenode! You can find instructions here: [http://ufhack.org/irc/](http://ufhack.org/irc/).
+
+
+
+
+
+
+
+Not on the mailing list? Send an email to president AT ufsit DOT org to request access.
+
+
+[UFSIT on the Interwebz]
+
+
+
+
+IRC: #ufsit on Freenode
+
+
+
+
+Website: [http://www.ufsit.org](http://www.ufsit.org/)
+
+
+
+
+Facebook: [https://www.facebook.com/ufsit](https://www.facebook.com/ufsit)

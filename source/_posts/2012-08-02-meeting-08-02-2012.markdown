@@ -1,0 +1,32 @@
+---
+author: elmavericko
+comments: true
+date: 2012-08-02 20:51:18+00:00
+layout: post
+slug: meeting-08-02-2012
+title: '[Meeting] 08-02-2012'
+wordpress_id: 155
+categories:
+- Meeting Announcement
+tags:
+- def con
+- hardware hacking
+- las vegas
+- presentations
+---
+
+Good afternoon hackers!
+
+At tonight’s meeting, I’m going to brag about how awesome Las Vegas and DEF CON were last week.
+It was my first time, so I was all like “OMG I love you, DEF CON! Let’s be together forever!” or something like that…
+
+I’ve got photos and crazy stories to tell, as well as some neat swag and conference materials (music, presentation files, and other neat stuff that we got in our goodie bag)
+…and (of course) the prized DEF CON XX badge -- if anyone has a soldering iron and/or a miniUSB cable, please bring it/them!
+
+Oh… and make sure to bring a flash drive or something if you want files :)
+
+
+**Location & Time**
+6:00pm - 7:30pm
+1151 McCarty Hall A
+http://campusmap.ufl.edu/?loc=0495

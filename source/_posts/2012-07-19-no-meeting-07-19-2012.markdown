@@ -1,0 +1,21 @@
+---
+author: elmavericko
+comments: true
+date: 2012-07-19 21:27:54+00:00
+layout: post
+slug: no-meeting-07-19-2012
+title: '[No Meeting] 07-19-2012'
+wordpress_id: 153
+categories:
+- Meeting Announcement
+---
+
+Good afternoon, Hackers!
+
+There will be no meeting this evening… because I’m getting married Saturday!
+We’ve still got people to see and stuff to do.
+
+Since I will probably forget to send out an e-mail about it… there will be no meeting next week (07-26-2012).
+I’ll be at DEF CON in Las Vegas.
+
+See you August 2nd!

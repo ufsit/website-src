@@ -1,0 +1,60 @@
+---
+author: elmavericko
+comments: true
+date: 2013-01-23 04:11:36+00:00
+layout: post
+slug: meeting-01-23-2013
+title: '[Meeting] 01-23-2013'
+wordpress_id: 557
+categories:
+- Meeting Announcement
+---
+
+Good morning, SIT'ers!  
+
+  
+
+Tomorrow night, we're going to introduce some of the tools that you will use throughout the semester.  
+
+  
+
+First, we'll walk you through the installation of VirtualBox, then you'll learn how to load up a virtual machine (VM)(we'll be using BackTrack Linux for this).  
+  
+
+  
+
+After that, it'll be time to break out a few programs.  
+
+  
+
+  
+
+[Stuff to bring]  
+
+- Computer  
+
+- VirtualBox  
+
+- BackTrack Linux  
+
+  
+
+  
+
+[Ethics Agreement]  
+
+Just a reminder... if you haven't yet signed an the ethics agreement posted at [http://ufhack.org/ethics/](http://ufhack.org/ethics/), please bring a copy of the agreement, printed out and signed, to tomorrow night's meeting.  
+
+  
+
+  
+
+[Time and Location]  
+
+Wednesday  
+
+8:00PM - 10:00PM  
+
+1151 McCarty Hall A  
+
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

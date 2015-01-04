@@ -1,0 +1,25 @@
+---
+author: elmavericko
+comments: true
+date: 2012-09-17 04:26:03+00:00
+layout: post
+slug: meeting-09-17-2012
+title: '[Meeting] 09-17-2012'
+wordpress_id: 475
+categories:
+- Meeting Announcement
+---
+
+Good morning, hackers!
+
+At tonight's meeting, we've got a bit of a show for you!
+
+Remember how we talked about Web Exploits and Binary Reversing at the last meeting?
+Well, this time... we're going to /show/ you how it's done! That's right, you're going to get a live demo of each of them. We'll also go over some of the tools and techniques you can use to accomplish the hacks.
+
+Also... If anyone is available 10-15 minutes prior to the meeting, we could use some help setting up in the conference room. Please let me know via e-mail if you'd be interested in helping out.
+
+**Location and time**:
+6:00pm - 8:00pm
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

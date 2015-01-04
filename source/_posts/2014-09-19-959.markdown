@@ -1,0 +1,19 @@
+---
+author: andrewuf
+comments: true
+date: 2014-09-19 02:37:45+00:00
+layout: post
+slug: '959'
+title: CSAW CTF | Friday 6:30pm - Sunday 6:00pm
+wordpress_id: 959
+categories:
+- Meeting Re-caps
+---
+
+Hey SITers!
+
+It's that time of the semester again when Kernel Sanders competes in the first CTF of the semester! Like I mentioned at the meeting, CSAW is a great CTF for beginners since it's labeled as "a competition designed for undergraduate students who are trying to break into cyber security".
+
+And, thanks to [Include Security](http://www.includesecurity.com), we will have pizza to chow down on while we're having fun hacking all the things.
+
+We'll be in **CSE E309 starting at 6:30pm on Friday** so come out and hack with us! And, just note that you don't have to be there for the full 48 hours - feel free to come and go as you wish.

@@ -1,0 +1,71 @@
+---
+layout: page
+title: "Home"
+date: 2013-08-16 23:48
+comments: true
+show_title: false
+sidebar: false
+hero_unit: true
+is_homepage: true
+---
+
+<div class="grid-wrapper">
+  <div class="grid">
+    <div class="grid__item one-third lap-one-whole palm-one-whole usp">
+      <div class="grid">
+
+        <div class="grid__item one-whole lap-two-thirds">
+          <h2 class="title">Meetings</h2>
+          <hr>
+          <div style="border: 1px solid #dcdcdc; border-radius: 4px; background-color: #e8e8e8; width: 100%; height: 100%; padding-top: 25px; display: block; margin: 0 auto">
+            <h3 style="margin-bottom: -15px; text-align: center"><b>Wednesdays</b></p>
+            <h3 style="margin-bottom: -15px; text-align: center"><b>7-9pm</b></p>
+            <h3 style="margin-bottom: -2px; text-align: center"><b>CSE E309</b></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid__item one-third lap-one-whole palm-one-whole usp">
+      <div class="grid">
+
+        <div class="grid__item one-whole lap-two-thirds">
+          <h2 class="title">Social</h2>
+          <hr>
+          <p style="margin-bottom: 5px;">Find us on the web @ufsit:</p>
+          {% unless site.social.visible == false %}
+          <section class="social aside-module grid__item one-whole lap-one-half" style="padding: 0px">
+            <ul class="unstyled">
+              {% if site.social.adn %}<li><a class="adn" rel="me" href="//alpha.app.net/{{ site.social.adn }}"><i class="icon-adn"></i> App.net</a></li>{% endif %}
+              {% if site.social.dribbble %}<li><a class="dribbble" href="//dribbble.com/{{ site.social.dribbble }}"><i class="icon-dribbble"></i> Dribbble</a></li>{% endif %}
+              {% if site.social.github.user %}<li><a class="github" href="//github.com/{{ site.social.github.user }}"><i class="icon-github"></i> Github</a></li>{% endif %}
+              {% if site.social.facebook.user %}<li><a class="facebook" href="//facebook.com/{{ site.social.facebook.user }}"><i class="icon-facebook-sign"></i> Facebook</a></li>{% endif %}
+              {% if site.social.googleplus %}<li><a class="gplus" href="//plus.google.com/{{ site.social.googleplus }}"><i class="icon-google-plus-sign"></i> Google+</a></li>{% endif %}
+              {% if site.social.linkedin %}<li><a class="linkedin" href="//linkedin.com/in/{{ site.social.linkedin }}"><i class="icon-linkedin-sign"></i> LinkedIn</a></li>{% endif %}
+              {% if site.social.pinterest %}<li><a class="pinterest" href="//pinterest.com/{{ site.social.pinterest }}"><i class="icon-pinterest"></i> Pinterest</a></li>{% endif %}
+              {% if site.social.stackoverflow %}<li><a class="stackoverflow" href="//stackoverflow.com/users/{{ site.social.stackoverflow }}"><i class="icon-stackexchange"></i> StackOverflow</a></li>{% endif %}
+              {% if site.social.twitter.user %}<li><a class="twitter" href="//twitter.com/{{ site.social.twitter.user }}"><i class="icon-twitter"></i> Twitter</a></li>{% endif %}
+              {% if site.social.youtube %}<li><a class="youtube" href="//youtube.com/user/{{ site.social.youtube }}"><i class="icon-youtube"></i> YouTube</a></li>{% endif %}
+            </ul>
+          </section>
+          {% endunless %}
+
+
+        </div>
+      </div>
+    </div>
+
+    <div class="grid__item one-third lap-one-whole palm-one-whole usp">
+      <div class="grid">
+
+        <div class="grid__item one-whole lap-two-thirds">
+          <h2 class="title">Join Us</h2>
+          <hr>
+          <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus repellendus officia iusto reiciendis quae quod consequuntur tempora. Rem, placeat laboriosam perferendis eum obcaecati illo iste molestias? Optio in expedita dolor!
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

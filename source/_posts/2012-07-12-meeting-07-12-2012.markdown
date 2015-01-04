@@ -1,0 +1,35 @@
+---
+author: elmavericko
+comments: true
+date: 2012-07-12 21:47:39+00:00
+layout: post
+slug: meeting-07-12-2012
+title: '[Meeting] 07-12-2012'
+wordpress_id: 143
+categories:
+- Meeting Announcement
+tags:
+- analysis
+- capture
+- network
+- packet
+- sniffing
+- traffic
+- wireshark
+---
+
+Evenin’ Hackers!
+
+Tonight, we’re doing a demo of Wireshark!
+
+This nifty tool (formerly Ethereal) will allow you to analyze packet data from an interface (if it supports promiscuous mode), or from a file (i.e. tcpdump output).
+
+Now... you might be thinking to yourself "why would I want to analyze packets from a network?" Aha! There are many reasons to inspect such things. For example… you could find out what your roommate is saying about you over that IM conversation they're having, or SSNs and patient information flying in the clear (oh wait... sore subject). Point being, you can find a lot of stuff flying through those wires!
+
+This meeting will be a little shorter than usual (1h rather than 2h)… we’ll see you in a few!
+
+
+**Location & Time**
+6:00pm - 7:00pm
+1151 McCarty Hall A
+http://campusmap.ufl.edu/?loc=0495

@@ -1,0 +1,20 @@
+---
+author: elmavericko
+comments: true
+date: 2012-11-20 05:10:45+00:00
+layout: post
+slug: no-meeting-11-20-2012
+title: '[No Meeting] 11-20-2012'
+wordpress_id: 528
+categories:
+- Meeting Announcement
+---
+
+Good morning, SIT'ers!
+
+While we will not have a formal meeting this week... several of us are going to Demo Night at the Gainesville Hackerspace ([http://skillhouse.org/](http://skillhouse.org/)).
+
+Some very cool demos are in the lineup, including one by SIT co-founder John Sawyer. He's going to showcase the awesome wireless tool, rfcat. I'm told he'll also have some fun hardware with him ^_^
+
+The space is located in the Sun Center Plaza, in the former location of comedy club Wise Guys.
+

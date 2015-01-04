@@ -1,0 +1,27 @@
+---
+author: elmavericko
+comments: true
+date: 2012-06-22 01:20:24+00:00
+layout: post
+slug: meeting-06-21-2012
+title: '[Meeting] 06-21-2012'
+wordpress_id: 129
+categories:
+- Meeting Announcement
+tags:
+- black box
+- ethicalhack3r
+- ryan dewhurst
+- scanner
+- security
+- wordpress
+---
+
+At tonight’s meeting, we’ll be discussing the WordPress Security Scanner. Developed by Ryan Dewhurst (ethicalhack3r), this powerful tool can help penetration testers check the security of WordPress installations, using a black box approach. While it’s _only_ targeted at sites running WordPress (who uses WordPress, right? oh wait…), this scanner is no joke.
+
+Come join us for discussion and demos!
+
+**Location & Time
+**6:00pm - 8:00pm
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

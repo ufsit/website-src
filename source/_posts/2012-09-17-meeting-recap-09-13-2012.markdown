@@ -1,0 +1,31 @@
+---
+author: elmavericko
+comments: true
+date: 2012-09-17 03:30:23+00:00
+layout: post
+slug: meeting-recap-09-13-2012
+title: '[Meeting Recap] 09-13-2012'
+wordpress_id: 468
+categories:
+- Meeting Re-caps
+---
+
+Good evening, hackers!
+
+As promised, here is the follow-up e-mail to Thursday's SIT meeting.
+
+First order of business... meetings have been moved to MONDAY nights. Same time; same room.
+
+While this week's meeting was more or less administrative, we briefly discussed some of the different types of hacking: specifically Web Stuff and Binary Reversing. We also watched a DEFCON talk, given by Jordan Wiens (aka psifertex), related to Capture The Flag competitions.
+
+At the end of the meeting, we discussed some websites and books that new members may find useful when starting out in security.
+
+**Websites**:
+- Smash The Stack -- [http://smashthestack.org/](http://smashthestack.org/)
+- CTF TIME -- [http://ctftime.org/](http://ctftime.org/)
+- DEFCON 20 CTF Quals Write-ups -- [http://devpsc.blogspot.com/2012/06/defcon-20-quals-writeup-collection.html](http://devpsc.blogspot.com/2012/06/defcon-20-quals-writeup-collection.html)
+- We Chall -- [http://www.wechall.net/sites.php](http://www.wechall.net/sites.php)
+
+**Books**:
+- The Art of Exploitation, 2nd Ed. (available @ UFLib, must be at UF or on VPN) -- [http://www.books24x7.com/marc.asp?bookid=36704](http://www.books24x7.com/marc.asp?bookid=36704)
+- The Art of Deception (available @ UFLib, must be at UF or on VPN) -- [http://www.books24x7.com/marc.asp?isbn=0471237124](http://www.books24x7.com/marc.asp?isbn=0471237124)

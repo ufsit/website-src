@@ -1,0 +1,39 @@
+---
+author: elmavericko
+comments: true
+date: 2013-02-12 06:45:33+00:00
+layout: post
+slug: meeting-02-13-2013
+title: '[Meeting] 02-13-2013'
+wordpress_id: 577
+categories:
+- Meeting Announcement
+---
+
+Good morning, SIT'ers!
+
+This week, we're going to finish up our first lesson on tools, and then get to the challenge from last week.
+
+This time, we shouldn't have any "issues" with the server.
+
+After the challenge, we're going to switch gears, and have a discussion on binary reversing (a big part of the current CTF scene). Gabriel is going to teach you about some of the tools needed for reversing, with a short demo... and then we'll have you go hands-on against a couple challenges. If you're a little more advanced, fear not... we _will_ have at least one bonus challenge.
+
+
+**Ghost in the Shellcode CTF**
+If you missed hearing about this, the GitS CTF is this weekend (Feb 15-17th). UFSIT will be competing in the CTF, under the team name Kernel Sanders.
+
+We will be set up in the 1151 McCarty A conference room, with plenty of CAT5 for local participants. Remote participation will be available, for those who need it. SSH keys will be supplied at this week's SIT meeting.
+
+Food and drinks will be provided for those participating locally.
+
+
+
+**Ethics Agreement**
+Just a reminder… if you haven’t yet signed an the ethics agreement posted at [http://ufhack.org/ethics/](http://ufhack.org/ethics/), please bring a copy of the agreement, printed out and signed, to tonight’s meeting.
+
+
+**Time and Location**
+Wednesday
+8:00pm - 10:00pm
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

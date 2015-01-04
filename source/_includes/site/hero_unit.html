@@ -1,0 +1,12 @@
+<div class="hero" style="background-image: url('/images/ufsit-309.JPG');">
+  <div class="grid-wrapper">
+    <div class="grid flex">
+      <div class="grid__item flex__item two-fifths palm-one-whole avatar">
+        <img class="gravatar" src="/images/kernel_sanders.png" alt="{{ site.author }}'s Picture"{% if site.email and site.gravatar != false %} data-gravatar="{{ site.email }}"{% endif %}>
+      </div>
+      <div class="grid__item flex__item three-fifths palm-one-whole">
+      {% include custom/welcome.html %}
+      </div>
+    </div>
+  </div>
+</div>

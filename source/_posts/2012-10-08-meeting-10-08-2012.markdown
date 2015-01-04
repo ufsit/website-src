@@ -1,0 +1,31 @@
+---
+author: elmavericko
+comments: true
+date: 2012-10-08 14:13:46+00:00
+layout: post
+slug: meeting-10-08-2012
+title: '[Meeting] 10-08-2012'
+wordpress_id: 486
+categories:
+- Meeting Announcement
+---
+
+Good morning, SIT'ers!
+
+Tonight's meeting will center around the Discovery/Recon phase of penetration testing. In this session, we’ll teach you some of the tools and techniques that you can use while performing reconnaissance on your target(s).
+
+Recon is one of the most essential (and often times one of the most time consuming) parts of a penetration test. This is where you really learn about your target(s).
+
++ Topics we hope to cover:
+- Footprinting
+- Scanning and Enumeration
+- Vulnerability Analysis
+
+**Ethics Agreement**
+At this meeting, you will also be required to agree to and sign the Ethics Agreement posted at [http://ufhack.org/ethics/](http://ufhack.org/ethics/)
+Please bring a copy of the agreement, printed out and signed, to tonight’s meeting. In the near future, we’ll begin checking to make sure everyone attending has signed off on it.
+
+**Location and time**
+6:30PM - 8:30PM
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

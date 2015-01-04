@@ -1,0 +1,41 @@
+---
+author: elmavericko
+comments: true
+date: 2012-11-07 20:58:58+00:00
+layout: post
+slug: meeting-11-07-2012
+title: '[Meeting] 11-07-2012'
+wordpress_id: 518
+categories:
+- Meeting Announcement
+---
+
+Good afternoon SIT'ers!
+
+At tonight's meeting, we'll cap off the "passive" portion of our Recon series, and then move into active scanning.
+
+We'll start off the discussion with a short presentation and demos of basic dnsrecon usage.
+Following that, we'll have a Q&A session and some hands-on time.
+
+For the last half of the meeting, Gabriel will present on basic usage of nmap.
+He's also agreed to show us a couple of demos.
+
+!!! FREE FOOD !!!
+Pizza and soda will be provided at this meeting, courtesy of the ACM
+
+[Stuff to bring]
+You will need a computer for this meeting
+- Linux or Linux VM (like Samurai-WTF or BackTrack)
+
+Tools:
+dnsrecon: [https://github.com/darkoperator/dnsrecon/archive/master.tar.gz](https://github.com/darkoperator/dnsrecon/archive/master.tar.gz)
+nmap: Your distribution's repo, or [http://nmap.org/download.html](http://nmap.org/download.html)
+
+[Ethics Agreement]
+Just a reminder... if you haven't yet signed an the ethics agreement posted at [http://ufhack.org/ethics/](http://ufhack.org/ethics/), please bring a copy of the agreement, printed out and signed, to tonight's meeting.
+
+[Time and Location]
+Wednesday
+7:15PM - 9:00PM
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

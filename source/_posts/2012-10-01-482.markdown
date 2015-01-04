@@ -1,0 +1,47 @@
+---
+author: elmavericko
+comments: true
+date: 2012-10-01 21:04:00+00:00
+layout: post
+slug: '482'
+title: '[Meeting] 10-01-2012'
+wordpress_id: 482
+categories:
+- Meeting Announcement
+---
+
+Good afternoon!
+
+In the last meeting it seemed we lost a few of you. So, at tonight's
+meeting, we will be looking at some of the basics of modern hacking. We're
+going to start very simple. Once we've laid a foundation for hacking,
+we'll then begin with introductory web hacking.
+
+The first lesson of the evening will cover setting up a Virtual Machine
+(VM) Host on our computers. We will be using VirtualBox, so please try to
+come in with VirtualBox already installed so we can make this step as
+productive as possible.
+
+For the second, we'll actually be installing a VM inside of the VM host.
+If you have never done that, this is the right time to ask. We will spend
+as much time as it takes so each of you have a VM up and running.
+
+And for the third lesson, we're going to introduce a Linux-based VM, which
+is specifically tailored to web penetration testing.
+
+WARNING: The VM we're using tonight is NOT to be used against UF resources without prior approval.
+
+Come prepared with a laptop that has at least 2GB of RAM, and (preferably) 25+GB of drive space available. Please also download and install VirtualBox on your computer prior to the meeting.
+
+VirtualBox:
+Downloads for Windows, Mac OS X, and Linux (x86/amd64)
+https://www.virtualbox.org/wiki/Downloads
+
+P.S. Any of the advanced members, please feel free to stop by and help with the teaching :)
+
+
+
+**Location and time**:
+6:30pm-8:30pm
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

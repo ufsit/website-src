@@ -1,0 +1,32 @@
+---
+author: elmavericko
+comments: true
+date: 2012-06-28 20:26:36+00:00
+layout: post
+slug: meeting-06-28-2012
+title: '[Meeting] 06-28-2012'
+wordpress_id: 135
+categories:
+- Meeting Announcement
+tags:
+- ctf
+- def con
+- hates irony
+- qualifier
+---
+
+Good afternoon Hackers!
+
+This evening’s meeting is going to be a very special one… and one that I'm sure you'll be highly disappointed if you miss!!!
+
+We are having a little chat with -one- of the qualifying DEF CON CTF Qualifier teams. -First-, I’d like to thank the members of the team for taking time out of their busy schedules to talk us through some of  their solutions. This opportunity is truly -one- in a lifetime.
+
+Ok… enough beating around the bush. Tonight, we have the unique opportunity to sit down with the members of Hates Irony (first-place team in this year’s DEF CON CTF Qualifier). The chat will be over Google Hangout, so you’ll be able to connect remotely if you have a Google account (e-mail me for details).
+
+If you’re able to attend, I highly recommend it! I think you’ll be more than satisfied with the experience :)
+
+**Location & Time
+**6:00pm - 8:00pm
+Chat @ 7:00pm – Google Hangout
+1151 McCarty Hall A
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)

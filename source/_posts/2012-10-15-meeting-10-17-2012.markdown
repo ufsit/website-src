@@ -1,0 +1,41 @@
+---
+author: elmavericko
+comments: true
+date: 2012-10-15 21:22:15+00:00
+layout: post
+slug: meeting-10-17-2012
+title: '[Meeting] 10-17-2012'
+wordpress_id: 488
+categories:
+- Meeting Announcement
+---
+
+Good afternoon, SIT'ers!
+
+This week's meeting will again center around the Discovery/Recon phase of penetration testing. In this session, we'll teach you some of the tools and techniques that you can use while performing reconnaissance on your target(s).
+
+Recon is one of the most essential (and often times one of the most time consuming) parts of a penetration test. This is where you really learn about your target(s).
++ Topics we hope to cover:
+- Footprinting
+- Scanning and Enumeration
+- Vulnerability Analysis
+
+If you need any help (Linux, VM, or life in general), or cannot attend, please contact me off-list (send me an email directly).
+
+**ITSA Day CTF**
+For those who were not aware, on Wednesday 10-10-2012 UF had its 2012 edition of the ITSA day (http://www.itsa.ufl.edu/). Along with the very exciting presentations, the Office of Information Security & Compliance held its first CTF! Not only did the SIT staff get to help with managing the event and creating some of the challenges (if you suffered with them, you can blame Mauricio and me!), but some of *you* played in the event (and did rather well). Thanks to those SIT'ers who represented... you know who you are!
+
+We will spend a bit of time talking about this event, maybe even persuading those of you who played for feedback.
+
+**Ethics Agreement**
+Just a reminder... if you haven't yest signed an the ethics agreement posted at [http://ufhack.org/ethics/](http://ufhack.org/ethics/), please bring a copy of the agreement, printed out and signed, to Wednesday's meeting.
+
+*** Please note day and time change below ***
+
+We are meeting in the same location but a bit later.
+
+**Time and Location**
+Wednesday
+7:15PM - 9:00PM
+1151 McCarty Hall B
+[http://campusmap.ufl.edu/?loc=0495](http://campusmap.ufl.edu/?loc=0495)
