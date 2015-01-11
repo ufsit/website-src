@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meeting announcement | UF Student InfoSec Team]]></title>
+  <link href="http://www.ufsit.org/blog/categories/meeting-announcement/atom.xml" rel="self"/>
+  <link href="http://www.ufsit.org/"/>
+  <updated>2015-01-10T23:30:31-08:00</updated>
+  <id>http://www.ufsit.org/</id>
+  <author>
+    <name><![CDATA[UFSIT]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - November 19, 2014 | John Sawyer - "The Life of a Penetration Tester"]]></title>
+    <link href="http://www.ufsit.org/blog/2014/11/17/meeting-november-19-2014-john-sawyer-the-life-of-a-penetration-tester/"/>
+    <updated>2014-11-17T17:48:09-08:00</updated>
+    <id>http://www.ufsit.org/blog/2014/11/17/meeting-november-19-2014-john-sawyer-the-life-of-a-penetration-tester</id>
+    <content type="html"><![CDATA[<p>This week, John Sawyer will be talking about his work as a security consultant and penetration tester. The talk will include lots of stories from the trenches, what penetration testers really do, and some of the challenges of the job. John&rsquo;s presentation will also include some live demonstrations related to the research from his recent BSidesJax presentation, The Dark Side of the Quantified Self.</p>
+
+<p>John is a Senior Security Analyst with InGuardians and a founder of UFSIT and SwampSec. His work as a security consultant with InGuardians has taken him all across the US and abroad to work with all different types of clients in industries that include oil and gas, financial, medical, educational, government, utilities, insurance, and pretty much anything else you can think of.</p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - November 12, 2014 | Web Servers and HTTP Requests]]></title>
+    <link href="http://www.ufsit.org/blog/2014/11/11/meeting-november-12-2014-web-servers-and-http-requests/"/>
+    <updated>2014-11-11T09:35:10-08:00</updated>
+    <id>http://www.ufsit.org/blog/2014/11/11/meeting-november-12-2014-web-servers-and-http-requests</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we will be installing Apache on our Ubuntu VM and then talking about HTTP requests and the cool things you can do with them!</p>
+
+<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - November 5, 2014 | File Systems]]></title>
+    <link href="http://www.ufsit.org/blog/2014/11/04/meeting-november-5-2014-file-systems/"/>
+    <updated>2014-11-04T18:29:52-08:00</updated>
+    <id>http://www.ufsit.org/blog/2014/11/04/meeting-november-5-2014-file-systems</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we will be taking a look at file systems which will include some basic data recovery/forensics as well as basic memory analysis!</p>
+
+<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - October 29, 2014 | Predicting Buffer Size & Shellcode]]></title>
+    <link href="http://www.ufsit.org/blog/2014/10/27/meeting-october-29-2014-predicting-buffer-size-shellcode/"/>
+    <updated>2014-10-27T18:26:21-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/10/27/meeting-october-29-2014-predicting-buffer-size-shellcode</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we will be familiarizing members with predicting the size of buffers that may have been optimized by using pattern_create.rb and pattern_offset.rb. We&rsquo;ll also be introducing the concept of shellcode along with msfvenom - a useful tool that is part of the metasploit framework.</p>
+
+<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>You can view the doc for this week&rsquo;s meeting here: <a href="http://sheepshellcode.com/tutorials/RED-MOD/red-mod-2.pdf">http://sheepshellcode.com/tutorials/RED-MOD/red-mod-2.pdf</a></p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SwampSec - October 22, 2014 | 7pm | The Back Yard Bar]]></title>
+    <link href="http://www.ufsit.org/blog/2014/10/21/swampsec-october-22-2014-7pm-the-back-yard-bar/"/>
+    <updated>2014-10-21T07:48:15-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/10/21/swampsec-october-22-2014-7pm-the-back-yard-bar</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, come join us at The Back Yard Bar (between Boca Fiesta and the Palomino Pool Hall downtown; map: <a href="http://www.swampsec.org/map-web.png">http://www.swampsec.org/map-web.png</a>) for this month&rsquo;s SwampSec!</p>
+
+<p><strong>Please note that we will NOT be meeting in CSE309.</strong></p>
+
+<p>If you don&rsquo;t know what SwampSec is, it&rsquo;s a gathering of infosec professionals and enthusiasts that takes place from 7 to roughly 9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter @swampsec. Hope to see you there!</p>
+]]></content>
+  </entry>
+  
+</feed>

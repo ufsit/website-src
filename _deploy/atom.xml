@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[UF Student InfoSec Team]]></title>
+  <link href="http://www.ufsit.org/atom.xml" rel="self"/>
+  <link href="http://www.ufsit.org/"/>
+  <updated>2015-01-10T23:30:31-08:00</updated>
+  <id>http://www.ufsit.org/</id>
+  <author>
+    <name><![CDATA[UFSIT]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - November 19, 2014 | John Sawyer - "The Life of a Penetration Tester"]]></title>
+    <link href="http://www.ufsit.org/blog/2014/11/17/meeting-november-19-2014-john-sawyer-the-life-of-a-penetration-tester/"/>
+    <updated>2014-11-17T17:48:09-08:00</updated>
+    <id>http://www.ufsit.org/blog/2014/11/17/meeting-november-19-2014-john-sawyer-the-life-of-a-penetration-tester</id>
+    <content type="html"><![CDATA[<p>This week, John Sawyer will be talking about his work as a security consultant and penetration tester. The talk will include lots of stories from the trenches, what penetration testers really do, and some of the challenges of the job. John&rsquo;s presentation will also include some live demonstrations related to the research from his recent BSidesJax presentation, The Dark Side of the Quantified Self.</p>
+
+<p>John is a Senior Security Analyst with InGuardians and a founder of UFSIT and SwampSec. His work as a security consultant with InGuardians has taken him all across the US and abroad to work with all different types of clients in industries that include oil and gas, financial, medical, educational, government, utilities, insurance, and pretty much anything else you can think of.</p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - November 12, 2014 | Web Servers and HTTP Requests]]></title>
+    <link href="http://www.ufsit.org/blog/2014/11/11/meeting-november-12-2014-web-servers-and-http-requests/"/>
+    <updated>2014-11-11T09:35:10-08:00</updated>
+    <id>http://www.ufsit.org/blog/2014/11/11/meeting-november-12-2014-web-servers-and-http-requests</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we will be installing Apache on our Ubuntu VM and then talking about HTTP requests and the cool things you can do with them!</p>
+
+<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - November 5, 2014 | File Systems]]></title>
+    <link href="http://www.ufsit.org/blog/2014/11/04/meeting-november-5-2014-file-systems/"/>
+    <updated>2014-11-04T18:29:52-08:00</updated>
+    <id>http://www.ufsit.org/blog/2014/11/04/meeting-november-5-2014-file-systems</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we will be taking a look at file systems which will include some basic data recovery/forensics as well as basic memory analysis!</p>
+
+<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - October 29, 2014 | Predicting Buffer Size & Shellcode]]></title>
+    <link href="http://www.ufsit.org/blog/2014/10/27/meeting-october-29-2014-predicting-buffer-size-shellcode/"/>
+    <updated>2014-10-27T18:26:21-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/10/27/meeting-october-29-2014-predicting-buffer-size-shellcode</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we will be familiarizing members with predicting the size of buffers that may have been optimized by using pattern_create.rb and pattern_offset.rb. We&rsquo;ll also be introducing the concept of shellcode along with msfvenom - a useful tool that is part of the metasploit framework.</p>
+
+<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>You can view the doc for this week&rsquo;s meeting here: <a href="http://sheepshellcode.com/tutorials/RED-MOD/red-mod-2.pdf">http://sheepshellcode.com/tutorials/RED-MOD/red-mod-2.pdf</a></p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SwampSec - October 22, 2014 | 7pm | The Back Yard Bar]]></title>
+    <link href="http://www.ufsit.org/blog/2014/10/21/swampsec-october-22-2014-7pm-the-back-yard-bar/"/>
+    <updated>2014-10-21T07:48:15-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/10/21/swampsec-october-22-2014-7pm-the-back-yard-bar</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, come join us at The Back Yard Bar (between Boca Fiesta and the Palomino Pool Hall downtown; map: <a href="http://www.swampsec.org/map-web.png">http://www.swampsec.org/map-web.png</a>) for this month&rsquo;s SwampSec!</p>
+
+<p><strong>Please note that we will NOT be meeting in CSE309.</strong></p>
+
+<p>If you don&rsquo;t know what SwampSec is, it&rsquo;s a gathering of infosec professionals and enthusiasts that takes place from 7 to roughly 9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter @swampsec. Hope to see you there!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[No Meeting This Week (10/15/14)]]></title>
+    <link href="http://www.ufsit.org/blog/2014/10/14/no-meeting-this-week-101414/"/>
+    <updated>2014-10-14T11:31:51-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/10/14/no-meeting-this-week-101414</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>Just a heads up that we will <strong>not</strong> be having a meeting this week. Best of luck on midterms and enjoy the homecoming festivities :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - October 8, 2014 | Hashes]]></title>
+    <link href="http://www.ufsit.org/blog/2014/10/07/meeting-october-8-2014-hashes/"/>
+    <updated>2014-10-07T20:13:36-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/10/07/meeting-october-8-2014-hashes</id>
+    <content type="html"><![CDATA[<p>Hi SITers!</p>
+
+<p>This week&rsquo;s presentation will introduce the science behind hashes such as SHA2/MD5 and how they are commonly used on Linux systems. Additionally, this presentation will introduce the hashmap datastructure and how it is implemented in the C programming language. We will discuss how a poor implementation can result in a vulnerability.</p>
+
+<p>View the doc for this meeting here: <a href="https://ufhack.files.wordpress.com/2014/10/sithashingdocument.pdf">BLUE-TEAM-MOD-2.pdf</a></p>
+
+<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - October 1, 2014 | Buffer Overflow Exploits]]></title>
+    <link href="http://www.ufsit.org/blog/2014/09/30/meeting-october-1-2014-buffer-overflow-exploits/"/>
+    <updated>2014-09-30T09:22:29-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/09/30/meeting-october-1-2014-buffer-overflow-exploits</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we will talk about the basic concepts of computer memory and how it&rsquo;s organized in Linux in order to dive into buffer overflow exploits!</p>
+
+<p>You can view the doc for tonight at: <a href="http://sheepshellcode.com/tutorials/RED-MOD/red-mod-1.pdf">http://sheepshellcode.com/tutorials/RED-MOD/red-mod-1.pdf</a></p>
+
+<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>[Be Social!]
+IRC: #ufsit on Freenode
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]
+Wednesday 7:00pm – 9:00pm
+CSE E312</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SwampSec - September 24, 2014 | 7-9pm | Stubbies & Steins]]></title>
+    <link href="http://www.ufsit.org/blog/2014/09/22/swampsec-september-24-2014-7-9pm-stubbies-steins/"/>
+    <updated>2014-09-22T18:31:24-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/09/22/swampsec-september-24-2014-7-9pm-stubbies-steins</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, come to Stubbies &amp; Steins &lt;<a href="http://stubbiesandsteins.com/">http://stubbiesandsteins.com/</a>> and join us for this month&rsquo;s SwampSec! This will be the last SwampSec at Stubbies as Stubbies will be closing on Saturday.</p>
+
+<p><strong>Please note that we will NOT be meeting in CSE309.</strong></p>
+
+<p>If you don&rsquo;t know what SwampSec is, it&rsquo;s a gathering of infosec professionals and enthusiasts that takes place from 7-9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter @swampsec. Hope to see you there!</p>
+
+<p>(Stubbies &amp; Steins: <a href="https://www.google.com/maps/preview?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr=">https://www.google.com/maps/preview?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr=</a>)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CSAW CTF | Friday 6:30pm - Sunday 6:00pm]]></title>
+    <link href="http://www.ufsit.org/blog/2014/09/18/959/"/>
+    <updated>2014-09-18T19:37:45-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/09/18/959</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>It&rsquo;s that time of the semester again when Kernel Sanders competes in the first CTF of the semester! Like I mentioned at the meeting, CSAW is a great CTF for beginners since it&rsquo;s labeled as &ldquo;a competition designed for undergraduate students who are trying to break into cyber security&rdquo;.</p>
+
+<p>And, thanks to <a href="http://www.includesecurity.com">Include Security</a>, we will have pizza to chow down on while we&rsquo;re having fun hacking all the things.</p>
+
+<p>We&rsquo;ll be in <strong>CSE E309 starting at 6:30pm on Friday</strong> so come out and hack with us! And, just note that you don&rsquo;t have to be there for the full 48 hours - feel free to come and go as you wish.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - September 17, 2014 | Intro to Networking with Netcat and Wireshark]]></title>
+    <link href="http://www.ufsit.org/blog/2014/09/15/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark/"/>
+    <updated>2014-09-15T21:57:54-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/09/15/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we&rsquo;ll be talking about some of the underlying technologies that allow the Internet to work and explaining how to use Netcat and Wireshark to interact and analyze those technologies.</p>
+
+<p>You can view the document for this meeting here: <a href="http://www.andrewjkerr.com/blue-mod-1.pdf">BLUE-MOD-1</a></p>
+
+<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>Also, as a quick reminder, you can find the meeting recordings at <a href="https://www.youtube.com/ufsit">https://www.youtube.com/ufsit</a>!</p>
+
+<p>[Be Social!]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 9:00pm</p>
+
+<p>CSE E312</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting – September 10, 2014 | Crash Course X86 Binaries]]></title>
+    <link href="http://www.ufsit.org/blog/2014/09/08/meeting-september-10-2014-crash-course-x86-binaries/"/>
+    <updated>2014-09-08T19:04:27-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/09/08/meeting-september-10-2014-crash-course-x86-binaries</id>
+    <content type="html"><![CDATA[<p>Hi SITers!</p>
+
+<p>This week, we&rsquo;ll be familiarizing ourselves with x86 binaries on Linux and provide a starting point for reading/modifying machine code. We&rsquo;ll also be learning about the hex editor hte and other tools like ndisasm.</p>
+
+<p>You can view the document for this meeting here: <a href="https://ufhack.files.wordpress.com/2014/09/red-mod-0.pdf">RED-MOD-0</a> and the doc that goes with it <a href="http://ufhack.files.wordpress.com/2014/09/red-mod-0-annotated-assembly.pdf">RED-MOD-0-ANNOTATED-ASSEMBLY</a></p>
+
+<p>Make sure to bring your laptop with the VMs from last meeting installed! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
+
+<p>Also, as a quick reminder, you can find the meeting recordings at <a href="https://www.youtube.com/ufsit">https://www.youtube.com/ufsit</a>!</p>
+
+<p>[Be Social!]
+IRC: #ufsit on Freenode
+Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]
+Wednesday 7:00pm – 9:00pm
+CSE E312</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Post-Meeting Recap | Virtual Machines and Resource List]]></title>
+    <link href="http://www.ufsit.org/blog/2014/09/03/post-meeting-recap-virtual-machines-and-resource-list/"/>
+    <updated>2014-09-03T17:43:07-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/09/03/post-meeting-recap-virtual-machines-and-resource-list</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>In case you didn&rsquo;t get a chance to grab the virtual machines that we&rsquo;ll be using this semester, you can download them at <a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a> or you can find an officer at any of the meetings and we can transfer the files to your computer.</p>
+
+<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x70;&#x72;&#x65;&#115;&#105;&#100;&#x65;&#x6e;&#116;&#x40;&#117;&#x66;&#115;&#x69;&#116;&#x2e;&#111;&#x72;&#103;">&#112;&#114;&#101;&#x73;&#x69;&#100;&#x65;&#x6e;&#116;&#x40;&#x75;&#x66;&#115;&#x69;&#x74;&#46;&#x6f;&#x72;&#x67;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting – September 3, 2014 | Welcome to SIT – Getting Started With Virtualization]]></title>
+    <link href="http://www.ufsit.org/blog/2014/08/28/meeting-september-3-2014-welcome-to-sit-getting-started-with-virtualization/"/>
+    <updated>2014-08-28T16:21:08-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/08/28/meeting-september-3-2014-welcome-to-sit-getting-started-with-virtualization</id>
+    <content type="html"><![CDATA[<p>Hello SITers,</p>
+
+<p>Get ready for our first meeting of Fall 2014! This week we will be introducing our officers, club structure, and how to get started with virtualization.</p>
+
+<p>Virtualization technology allows a user to emulate an operating system at the software level abstract from underlying hardware. For us, this means we can run an operating system that uses the linux kernel from our Desktop!</p>
+
+<p>Officers are now providing an awesome series of whitepapers that go along with each presentation. To view the docs for this weeks meeting click the link below:</p>
+
+<p><a href="http://ufhack.files.wordpress.com/2014/08/blue-mod-01.pdf">BLUE-MOD-0</a></p>
+
+<p>You will need to bring a laptop with Ethernet access with you!</p>
+
+<p><a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a></p>
+
+<p>[Be Social!]<br/>
+IRC: #ufsit on Freenode<br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+Wednesday 7:00pm – 9:00pm<br/>
+CSE E312</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SwampSec - July 30, 2014, 7-9pm at Stubbies and Steins]]></title>
+    <link href="http://www.ufsit.org/blog/2014/07/28/swampsec-july-30-2014-7-9pm-at-stubbies-and-steins/"/>
+    <updated>2014-07-28T18:46:47-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/07/28/swampsec-july-30-2014-7-9pm-at-stubbies-and-steins</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>Just because we won&rsquo;t be having regular meetings doesn&rsquo;t mean we won&rsquo;t be doing things. This week, come to Stubbies &amp; Steins &lt;<a href="http://stubbiesandsteins.com/">http://stubbiesandsteins.com/</a>> and join us for this month&rsquo;s SwampSec!</p>
+
+<p>If you don&rsquo;t know what SwampSec is, it&rsquo;s a gathering of infosec professionals and enthusiasts that takes place from 7-9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter <a href="https://twitter.com/swampsec">@swampsec</a>. Hope to see you there!</p>
+
+<p>(Stubbies &amp; Steins: <a href="https://www.google.com/maps/preview?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr=">https://www.google.com/maps/preview?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr=</a>)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Regular Meetings Resume September 3, 2014]]></title>
+    <link href="http://www.ufsit.org/blog/2014/07/28/928/"/>
+    <updated>2014-07-28T18:37:14-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/07/28/928</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>We will be resuming normal UFSIT meetings on September 3, 2014. For now, come visit our IRC channel on #ufsit on Freenode! You can find instructions here: <a href="http://ufhack.org/irc/">http://ufhack.org/irc/</a>.</p>
+
+<p>Not on the mailing list? Send an email to president AT ufsit DOT org to request access.</p>
+
+<p>[UFSIT on the Interwebz]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[No Meeting This Week (07/09)]]></title>
+    <link href="http://www.ufsit.org/blog/2014/07/07/no-meeting-this-week-0709/"/>
+    <updated>2014-07-07T17:52:49-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/07/07/no-meeting-this-week-0709</id>
+    <content type="html"><![CDATA[<p>Hi SITers!</p>
+
+<p>Like last week, there will not be a meeting this week. And yet another reminder, come join your fellow SIT members in #ufsit on Freenode! You can find instructions on how to connect <a href="http://ufhack.org/irc/">here</a>.</p>
+
+<p>[UFSIT on the Interwebz]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[No Meeting This Week (07/02)]]></title>
+    <link href="http://www.ufsit.org/blog/2014/06/30/no-meeting-this-week-0702/"/>
+    <updated>2014-06-30T18:01:40-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/06/30/no-meeting-this-week-0702</id>
+    <content type="html"><![CDATA[<p>Hi SITers!</p>
+
+<p>There will not be a meeting this week. As a reminder, come join your fellow SIT members in #ufsit on Freenode! You can find instructions on how to connect <a href="http://ufhack.org/irc/">here</a>.</p>
+
+<p>[UFSIT on the Interwebz]</p>
+
+<p>IRC: #ufsit on Freenode</p>
+
+<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
+
+<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - June 25, 2014 | SwampSec]]></title>
+    <link href="http://www.ufsit.org/blog/2014/06/23/meeting-june-25-2014-swampsec/"/>
+    <updated>2014-06-23T16:04:14-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/06/23/meeting-june-25-2014-swampsec</id>
+    <content type="html"><![CDATA[<p>This week, SIT is taking a trip to SwampSec &lt;<a href="http://swampsec.org/">http://swampsec.org/</a>>! If you don&rsquo;t know what SwampSec is, it&rsquo;s a gathering of infosec professionals that takes place from 7-9pm on the fourth/last Wednesday of the month downtown at Stubbies &amp; Steins &lt;<a href="http://stubbiesandsteins.com/">http://stubbiesandsteins.com/</a>>. Hope to see you there!</p>
+
+<p>(Google Maps: <a href="https://www.google.com/maps?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr&amp;output=classic">https://www.google.com/maps?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr&amp;output=classic</a>)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - June 18, 2014 | Projects and Metasploitable]]></title>
+    <link href="http://www.ufsit.org/blog/2014/06/16/meeting-june-18-2014-projects-and-metasploitable/"/>
+    <updated>2014-06-16T17:55:18-07:00</updated>
+    <id>http://www.ufsit.org/blog/2014/06/16/meeting-june-18-2014-projects-and-metasploitable</id>
+    <content type="html"><![CDATA[<p>Hi SITers!</p>
+
+<p>Come join us this Wednesday in our new location CSE E312 and bring along a project you&rsquo;re working on! We&rsquo;ll be meeting up to discuss projects that we&rsquo;ve been working on and also install Metasploitable. Please note that this is a different room than we&rsquo;ve previously been in, so don&rsquo;t go to McCarty!</p>
+
+<p>[Be Social!]
+IRC: #ufsit on Freenode
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]
+Wednesday 7:00pm - 9:00pm
+CSE E312</p>
+]]></content>
+  </entry>
+  
+</feed>

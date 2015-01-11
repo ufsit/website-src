@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: main | UF Student InfoSec Team]]></title>
+  <link href="http://www.ufsit.org/blog/categories/main/atom.xml" rel="self"/>
+  <link href="http://www.ufsit.org/"/>
+  <updated>2015-01-10T23:30:31-08:00</updated>
+  <id>http://www.ufsit.org/</id>
+  <author>
+    <name><![CDATA[UFSIT]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Prepping for the DEFCON CTF Qualifier]]></title>
+    <link href="http://www.ufsit.org/blog/2013/06/13/prepping-for-the-defcon-ctf-qualifier/"/>
+    <updated>2013-06-13T07:27:52-07:00</updated>
+    <id>http://www.ufsit.org/blog/2013/06/13/prepping-for-the-defcon-ctf-qualifier</id>
+    <content type="html"><![CDATA[<p>SIT&#8217;ers,</p>
+
+<p>In order to access the internal collaboration resources this weekend, you&rsquo;ll need to generate a SSH key pair.</p>
+
+<p>&ldquo;How do I do this?&rdquo; you might be thinking.
+It&rsquo;s actually a pretty easy process.</p>
+
+<p>You&rsquo;ll want to do this in a UNIX/Linux environment. Make sure that &lsquo;ssh-keygen&rsquo; is installed. It should be, unless you&rsquo;re using a fresh install of some crazy minimalist distro like Arch Linux.</p>
+
+<p>First, cd into your .ssh directory
+[code]
+[user@machine ~]$ cd /home/user/.ssh/
+[user@machine .ssh]$
+[/code]
+If the directory doesn&rsquo;t exist, create it.
+[code]
+[user@machine ~]$ cd /home/user/.ssh/
+-bash: cd: /home/user/.ssh/: No such file or directory
+[user@machine ~]$ mkdir /home/user/.ssh/
+[user@machine ~]$ cd /home/user/.ssh/
+[user@machine .ssh]$
+[/code]</p>
+
+<p>Then run &lsquo;ssh-keygen -t rsa -b 4096&rsquo; (this is telling ssh-keygen to create a 4096-bit key pair, of type RSA). It is not necessary to set a passphrase on this key, but you can if you want to. Please use the naming scheme &lsquo;firstlast_defcon-rsa&rsquo;
+[code]
+[user@machine .ssh]$ ssh-keygen -t rsa -b 4096
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/user/.ssh/id_rsa): firstlast_defcon-rsa
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /home/user/.ssh/firstlast_defcon-rsa.
+Your public key has been saved in /home/user/.ssh/firstlast_defcon-rsa.pub.
+The key fingerprint is:
+dc:10:47:23:9e:ef:e0:78:15:09:76:a3:26:fd:ed:1c user@machine
+The key&rsquo;s randomart image is:
++&ndash;[ RSA 4096]&mdash;-+
+|       .oo+.o    |
+|      ..+..+ o   |
+|       oC.+.o    |
+|       + B.+E.   |
+|      . S ooo.   |
+|       .    +    |
+|                 |
+|                 |
+|                 |
++&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;+
+[/code]</p>
+
+<p>Please email your public key (firstlast_defcon-rsa<strong>.pub</strong>) file to <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#x3a;&#x6d;&#x61;&#116;&#x74;&#x2e;&#x6e;&#x61;&#115;&#x68;&#64;&#x75;&#x66;&#x6c;&#46;&#101;&#100;&#117;">&#x6d;&#x61;&#x74;&#116;&#46;&#x6e;&#97;&#115;&#104;&#x40;&#117;&#102;&#108;&#x2e;&#101;&#x64;&#x75;</a></p>
+
+<p>After we add your pubkey to the server, you&rsquo;ll get an email reply with instructions on how to use the tunnel we&rsquo;ve created. You&rsquo;ll also receive information about the internal resources.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Preparing for iCTF]]></title>
+    <link href="http://www.ufsit.org/blog/2013/03/19/preparing-for-ictf/"/>
+    <updated>2013-03-19T12:44:04-07:00</updated>
+    <id>http://www.ufsit.org/blog/2013/03/19/preparing-for-ictf</id>
+    <content type="html"><![CDATA[<p>As many of you know,  the <a href="http://ictf.cs.ucsb.edu/">UCSB iCTF</a> takes place on March 22. This time we are changing address and will be running it from the <a href="http://skillhouse.org/">Gainesville Hackerspace</a> location. There is something to be said about comfy chairs.</p>
+
+<p>Of course, that means moving and setting up our game rig there. And, suddenly, the Stack&rsquo;s gone!</p>
+
+<p>[caption id=&ldquo;attachment_632&rdquo; align=&ldquo;aligncenter&rdquo; width=&ldquo;300&rdquo;]<a href="http://ufhack.files.wordpress.com/2013/03/emptystack.jpg"><img src="http://ufhack.files.wordpress.com/2013/03/emptystack.jpg?w=300" alt="Where's the Kernel?!" /></a> Where&rsquo;s the Kernel?![/caption]</p>
+
+<p>Don&rsquo;t worry; all the contents are fine&hellip; specially the Kernel Sanders. I mean, we were there until 2am this morning and have not electrocuted ourselves in the process. But we do have some interior decoration issues we must address.</p>
+
+<p>Which reminds me: don&rsquo;t forget that this Wednesday meeting will take place at hackerspace. We do want to make sure you can find your way there before game day.</p>
+]]></content>
+  </entry>
+  
+</feed>

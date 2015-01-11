@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ctf | UF Student InfoSec Team]]></title>
+  <link href="http://www.ufsit.org/blog/categories/ctf/atom.xml" rel="self"/>
+  <link href="http://www.ufsit.org/"/>
+  <updated>2015-01-10T23:30:31-08:00</updated>
+  <id>http://www.ufsit.org/</id>
+  <author>
+    <name><![CDATA[UFSIT]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[CTF - Ghost in the Shellcode | Friday 1500 - Sunday 1330]]></title>
+    <link href="http://www.ufsit.org/blog/2014/01/16/ctf-ghost-in-the-shellcode-friday-1500-sunday-1330/"/>
+    <updated>2014-01-16T14:06:17-08:00</updated>
+    <id>http://www.ufsit.org/blog/2014/01/16/ctf-ghost-in-the-shellcode-friday-1500-sunday-1330</id>
+    <content type="html"><![CDATA[<p>SITers,</p>
+
+<p>We&rsquo;re a little under 24hrs away from the first CTF of the semester - <a href="http://ghostintheshellcode.com/">Ghost in the Shellcode</a> &lt;<a href="http://ghostintheshellcode.com/">http://ghostintheshellcode.com/</a>> - and I hope you all are ready to hack away!</p>
+
+<p>We will be in our regular meeting location (1151 McCarty Hall A) from 3:00pm on Friday until 1:30pm on Sunday so feel free to drop by at any time to have some fun. All you&rsquo;ll need to help out is yourself and your laptop!</p>
+
+<p>One thing we stress is the fact that, even if you <em>think</em> you don&rsquo;t have enough knowledge to help out, you actually do. Every person that has come out in the past has been a huge help and has always learned a ton of useful tips/tricks/skills (I know I have.)</p>
+
+<p>If you want to help set up, show up early and, if you have any questions about the CTF, just ask in the irc (freenode, #ufsit.)</p>
+
+<p>Happy hacking!</p>
+
+<p>Also, make sure to join <a href="https://ufl.collegiatelink.net/organization/SIT/">SIT on GatorConnect</a> &lt;<a href="https://ufl.collegiatelink.net/organization/SIT/">https://ufl.collegiatelink.net/organization/SIT/</a>> if you haven&rsquo;t already!</p>
+]]></content>
+  </entry>
+  
+</feed>
