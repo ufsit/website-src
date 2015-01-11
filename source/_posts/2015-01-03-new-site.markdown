@@ -1,9 +1,0 @@
----
-layout: post
-title: "New Site!"
-date: 2015-01-03 18:17:07 -0500
-comments: true
-categories: 
----
-
-Just a damn test post.
