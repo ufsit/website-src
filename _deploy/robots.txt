@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.ufsit.org/sitemap.xml 
+Sitemap: http://ufsit.github.io/sitemap.xml 

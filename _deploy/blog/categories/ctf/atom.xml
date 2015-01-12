@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: ctf | UF Student InfoSec Team]]></title>
-  <link href="http://www.ufsit.org/blog/categories/ctf/atom.xml" rel="self"/>
-  <link href="http://www.ufsit.org/"/>
-  <updated>2015-01-10T23:30:31-08:00</updated>
-  <id>http://www.ufsit.org/</id>
+  <link href="http://ufsit.github.io/blog/categories/ctf/atom.xml" rel="self"/>
+  <link href="http://ufsit.github.io/"/>
+  <updated>2015-01-11T15:56:21-08:00</updated>
+  <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[CTF - Ghost in the Shellcode | Friday 1500 - Sunday 1330]]></title>
-    <link href="http://www.ufsit.org/blog/2014/01/16/ctf-ghost-in-the-shellcode-friday-1500-sunday-1330/"/>
+    <link href="http://ufsit.github.io/blog/2014/01/16/ctf-ghost-in-the-shellcode-friday-1500-sunday-1330/"/>
     <updated>2014-01-16T14:06:17-08:00</updated>
-    <id>http://www.ufsit.org/blog/2014/01/16/ctf-ghost-in-the-shellcode-friday-1500-sunday-1330</id>
+    <id>http://ufsit.github.io/blog/2014/01/16/ctf-ghost-in-the-shellcode-friday-1500-sunday-1330</id>
     <content type="html"><![CDATA[<p>SITers,</p>
 
 <p>We&rsquo;re a little under 24hrs away from the first CTF of the semester - <a href="http://ghostintheshellcode.com/">Ghost in the Shellcode</a> &lt;<a href="http://ghostintheshellcode.com/">http://ghostintheshellcode.com/</a>> - and I hope you all are ready to hack away!</p>

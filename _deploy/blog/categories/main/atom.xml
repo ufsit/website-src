@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: main | UF Student InfoSec Team]]></title>
-  <link href="http://www.ufsit.org/blog/categories/main/atom.xml" rel="self"/>
-  <link href="http://www.ufsit.org/"/>
-  <updated>2015-01-10T23:30:31-08:00</updated>
-  <id>http://www.ufsit.org/</id>
+  <link href="http://ufsit.github.io/blog/categories/main/atom.xml" rel="self"/>
+  <link href="http://ufsit.github.io/"/>
+  <updated>2015-01-11T15:56:21-08:00</updated>
+  <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Prepping for the DEFCON CTF Qualifier]]></title>
-    <link href="http://www.ufsit.org/blog/2013/06/13/prepping-for-the-defcon-ctf-qualifier/"/>
+    <link href="http://ufsit.github.io/blog/2013/06/13/prepping-for-the-defcon-ctf-qualifier/"/>
     <updated>2013-06-13T07:27:52-07:00</updated>
-    <id>http://www.ufsit.org/blog/2013/06/13/prepping-for-the-defcon-ctf-qualifier</id>
+    <id>http://ufsit.github.io/blog/2013/06/13/prepping-for-the-defcon-ctf-qualifier</id>
     <content type="html"><![CDATA[<p>SIT&#8217;ers,</p>
 
 <p>In order to access the internal collaboration resources this weekend, you&rsquo;ll need to generate a SSH key pair.</p>
@@ -66,7 +66,7 @@ The key&rsquo;s randomart image is:
 +&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;+
 [/code]</p>
 
-<p>Please email your public key (firstlast_defcon-rsa<strong>.pub</strong>) file to <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#x3a;&#x6d;&#x61;&#116;&#x74;&#x2e;&#x6e;&#x61;&#115;&#x68;&#64;&#x75;&#x66;&#x6c;&#46;&#101;&#100;&#117;">&#x6d;&#x61;&#x74;&#116;&#46;&#x6e;&#97;&#115;&#104;&#x40;&#117;&#102;&#108;&#x2e;&#101;&#x64;&#x75;</a></p>
+<p>Please email your public key (firstlast_defcon-rsa<strong>.pub</strong>) file to <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#x6d;&#x61;&#116;&#x74;&#46;&#110;&#x61;&#115;&#x68;&#64;&#x75;&#102;&#x6c;&#46;&#101;&#x64;&#x75;">&#109;&#97;&#116;&#116;&#46;&#110;&#97;&#115;&#104;&#64;&#x75;&#102;&#x6c;&#46;&#x65;&#x64;&#x75;</a></p>
 
 <p>After we add your pubkey to the server, you&rsquo;ll get an email reply with instructions on how to use the tunnel we&rsquo;ve created. You&rsquo;ll also receive information about the internal resources.</p>
 ]]></content>
@@ -74,9 +74,9 @@ The key&rsquo;s randomart image is:
   
   <entry>
     <title type="html"><![CDATA[Preparing for iCTF]]></title>
-    <link href="http://www.ufsit.org/blog/2013/03/19/preparing-for-ictf/"/>
+    <link href="http://ufsit.github.io/blog/2013/03/19/preparing-for-ictf/"/>
     <updated>2013-03-19T12:44:04-07:00</updated>
-    <id>http://www.ufsit.org/blog/2013/03/19/preparing-for-ictf</id>
+    <id>http://ufsit.github.io/blog/2013/03/19/preparing-for-ictf</id>
     <content type="html"><![CDATA[<p>As many of you know,  the <a href="http://ictf.cs.ucsb.edu/">UCSB iCTF</a> takes place on March 22. This time we are changing address and will be running it from the <a href="http://skillhouse.org/">Gainesville Hackerspace</a> location. There is something to be said about comfy chairs.</p>
 
 <p>Of course, that means moving and setting up our game rig there. And, suddenly, the Stack&rsquo;s gone!</p>

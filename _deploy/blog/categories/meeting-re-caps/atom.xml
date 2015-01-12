@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meeting re-caps | UF Student InfoSec Team]]></title>
-  <link href="http://www.ufsit.org/blog/categories/meeting-re-caps/atom.xml" rel="self"/>
-  <link href="http://www.ufsit.org/"/>
-  <updated>2015-01-10T23:30:31-08:00</updated>
-  <id>http://www.ufsit.org/</id>
+  <link href="http://ufsit.github.io/blog/categories/meeting-re-caps/atom.xml" rel="self"/>
+  <link href="http://ufsit.github.io/"/>
+  <updated>2015-01-11T15:56:21-08:00</updated>
+  <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Meeting - October 8, 2014 | Hashes]]></title>
-    <link href="http://www.ufsit.org/blog/2014/10/07/meeting-october-8-2014-hashes/"/>
+    <link href="http://ufsit.github.io/blog/2014/10/07/meeting-october-8-2014-hashes/"/>
     <updated>2014-10-07T20:13:36-07:00</updated>
-    <id>http://www.ufsit.org/blog/2014/10/07/meeting-october-8-2014-hashes</id>
+    <id>http://ufsit.github.io/blog/2014/10/07/meeting-october-8-2014-hashes</id>
     <content type="html"><![CDATA[<p>Hi SITers!</p>
 
 <p>This week&rsquo;s presentation will introduce the science behind hashes such as SHA2/MD5 and how they are commonly used on Linux systems. Additionally, this presentation will introduce the hashmap datastructure and how it is implemented in the C programming language. We will discuss how a poor implementation can result in a vulnerability.</p>
@@ -44,9 +44,9 @@
   
   <entry>
     <title type="html"><![CDATA[CSAW CTF | Friday 6:30pm - Sunday 6:00pm]]></title>
-    <link href="http://www.ufsit.org/blog/2014/09/18/959/"/>
+    <link href="http://ufsit.github.io/blog/2014/09/18/959/"/>
     <updated>2014-09-18T19:37:45-07:00</updated>
-    <id>http://www.ufsit.org/blog/2014/09/18/959</id>
+    <id>http://ufsit.github.io/blog/2014/09/18/959</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>It&rsquo;s that time of the semester again when Kernel Sanders competes in the first CTF of the semester! Like I mentioned at the meeting, CSAW is a great CTF for beginners since it&rsquo;s labeled as &ldquo;a competition designed for undergraduate students who are trying to break into cyber security&rdquo;.</p>
@@ -59,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[Meeting - September 17, 2014 | Intro to Networking with Netcat and Wireshark]]></title>
-    <link href="http://www.ufsit.org/blog/2014/09/15/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark/"/>
+    <link href="http://ufsit.github.io/blog/2014/09/15/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark/"/>
     <updated>2014-09-15T21:57:54-07:00</updated>
-    <id>http://www.ufsit.org/blog/2014/09/15/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark</id>
+    <id>http://ufsit.github.io/blog/2014/09/15/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>This week, we&rsquo;ll be talking about some of the underlying technologies that allow the Internet to work and explaining how to use Netcat and Wireshark to interact and analyze those technologies.</p>
@@ -90,22 +90,22 @@
   
   <entry>
     <title type="html"><![CDATA[Post-Meeting Recap | Virtual Machines and Resource List]]></title>
-    <link href="http://www.ufsit.org/blog/2014/09/03/post-meeting-recap-virtual-machines-and-resource-list/"/>
+    <link href="http://ufsit.github.io/blog/2014/09/03/post-meeting-recap-virtual-machines-and-resource-list/"/>
     <updated>2014-09-03T17:43:07-07:00</updated>
-    <id>http://www.ufsit.org/blog/2014/09/03/post-meeting-recap-virtual-machines-and-resource-list</id>
+    <id>http://ufsit.github.io/blog/2014/09/03/post-meeting-recap-virtual-machines-and-resource-list</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>In case you didn&rsquo;t get a chance to grab the virtual machines that we&rsquo;ll be using this semester, you can download them at <a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a> or you can find an officer at any of the meetings and we can transfer the files to your computer.</p>
 
-<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#x70;&#x72;&#101;&#115;&#x69;&#100;&#x65;&#110;&#116;&#x40;&#117;&#102;&#x73;&#x69;&#x74;&#46;&#111;&#x72;&#103;">&#x70;&#114;&#x65;&#115;&#x69;&#x64;&#101;&#x6e;&#116;&#x40;&#x75;&#102;&#115;&#105;&#x74;&#x2e;&#x6f;&#x72;&#103;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
+<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x70;&#x72;&#101;&#115;&#105;&#100;&#101;&#x6e;&#116;&#64;&#x75;&#102;&#x73;&#105;&#x74;&#46;&#x6f;&#114;&#x67;">&#x70;&#114;&#x65;&#x73;&#x69;&#x64;&#x65;&#110;&#116;&#64;&#117;&#x66;&#x73;&#x69;&#x74;&#46;&#111;&#114;&#103;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[No Meeting This Week (07/09)]]></title>
-    <link href="http://www.ufsit.org/blog/2014/07/07/no-meeting-this-week-0709/"/>
+    <link href="http://ufsit.github.io/blog/2014/07/07/no-meeting-this-week-0709/"/>
     <updated>2014-07-07T17:52:49-07:00</updated>
-    <id>http://www.ufsit.org/blog/2014/07/07/no-meeting-this-week-0709</id>
+    <id>http://ufsit.github.io/blog/2014/07/07/no-meeting-this-week-0709</id>
     <content type="html"><![CDATA[<p>Hi SITers!</p>
 
 <p>Like last week, there will not be a meeting this week. And yet another reminder, come join your fellow SIT members in #ufsit on Freenode! You can find instructions on how to connect <a href="http://ufhack.org/irc/">here</a>.</p>
