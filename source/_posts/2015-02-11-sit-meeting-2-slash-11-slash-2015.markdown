@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIT Meeting 2/11/2015"
+title: "SIT Meeting 2-11-2015"
 date: 2015-02-11 11:29:42 -0800
 comments: true
 categories: meeting

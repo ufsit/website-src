@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "SIT -- Meeting 2/4/2015"
+title: "SIT Meeting 2-4-2015"
 date: 2015-02-03 11:28:04 -0800
 comments: true
-categories: 
+categories: meeting
 ---
 
 Hello SITers!
