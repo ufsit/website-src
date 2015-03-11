@@ -1,0 +1,24 @@
+---
+layout: post
+title: "SIT Meeting 3-11-2015 - Decompilers"
+date: 2015-03-11 09:04:26 -0700
+comments: true
+categories: meeting
+---
+
+Hello SITers,
+
+Meetings will resume this Wednesday with an awesome presentation/series of challenges by our Vice President Daniel Gollahon! This should be a really fun meeting even if you're new to reverse engineering since the only prerequisite is knowing a bit of Java.
+
+If you would like to download the challenges ahead of time you can find them at [https://github.com/ufsit/decompiling-3-11-2015](https://github.com/ufsit/decompiling-3-11-2015). The gpg password will be released on the mailing list after the meeting.
+
+Hope to see you there!
+
+[Be Social!]
+
+  - IRC: #ufsit on Freenode
+  - Website: http://www.ufsit.org
+  - Facebook: https://www.facebook.com/ufsit
+
+[Time and Location]
+Wednesday 7:00pm – 8:00pm | CSE E309
