@@ -1,0 +1,23 @@
+---
+layout: post
+title: "SIT Meeting 3-18-2015"
+date: 2015-03-18 12:11:33 -0700
+comments: true
+categories: meetings
+---
+
+Hello SITers!
+
+This week we will be getting some insight into the world of malware by watching a DEFCON 18 talk titled: My Life as a Spyware Developer. This will be followed up by a discussion about ethics. We will also talk a bit more about officer positions and how to run. It was announced at the last meeting that elections will happen April 1st!
+
+Hope to see you there!
+
+[Be Social!]
+
+   - IRC: #ufsit on Freenode
+   - Website: [http://ufsit.org](http://ufsit.org)
+   - Facebook: [https://www.facebook.com/ufsit](https://www.facebook.com/ufsit)
+
+[Time and Location]
+
+Wednesday 7:00pm – 8:00pm | CSE E309
