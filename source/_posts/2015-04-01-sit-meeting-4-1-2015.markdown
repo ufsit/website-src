@@ -1,0 +1,26 @@
+---
+layout: post
+title: "SIT Meeting 4-1-2015 - Heartbleed"
+date: 2015-04-01 12:54:48 -0700
+comments: true
+categories: meeting
+---
+
+Hello SITers!
+
+Today our Vice President Daniel will be giving an awesome presentation about the Heart Bleed Vulnerability. To get hands on experience, you will need to make sure you have filled out the online ethics form at ufsit.org (Giant button that says mailing list) that way you will have access to the ndg virtual machines.
+
+Following Daniel's Presentation/exercises we will be having officer elections for people who submitted an email before 7:00pm on Tuesday with what position they would like to run for. 
+
+Also due to a scheduling conflict we will be meeting in CSE 312 instead of CSE 309 for the rest of the semester! This room is located in the same area as the lobby with couches.
+
+[Be Social!]
+
+- IRC: #ufsit on Freenode
+- Website: http://www.ufsit.org
+- Facebook: https://www.facebook.com/ufsit
+
+[Time and Location]
+
+Wednesday 7:00pm – 8:00pm | *CSE E312*
+
