@@ -13,6 +13,8 @@ Like we mentioned at Tuesday's meeting, we'll be competing in the MMA CTF (https
 - 8pm - 11pm on Friday
 - Noon - 4pm on Saturday
 
+<!-- more -->
+
 Can't make those times? Don't fret! We'll be collaborating on the UFSIT IRC (#ufsit on Freenode) and will be posting instructions on how to participate remotely there.
 
 Though, if you're planning on coming to compete in person, we ask that you bring a laptop with a Kali Linux VM on it. We'll be sending out instructions on how to set that up soon.

@@ -12,6 +12,8 @@ For some meetings and CTFs this semester, you're going to want a Kali Linux VM. 
 
 Here are the instructions for getting Kali Linux set up in either VMWare or VirtualBox:
 
+<!-- more -->
+
 VirtualBox:
 
 1. Download the 'Kali Linux 64 bit VBox' image from https://www.offensive-security.com/kali-linux-vmware-arm-image-download (torrent is recommended!).
