@@ -60,6 +60,8 @@ article {
       a {
         color: $meta-color;
         text-decoration: none;
+        float: right;
+        margin-left: 5px;
         &:hover {text-decoration: underline;}
       }
     }
