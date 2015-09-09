@@ -11,6 +11,9 @@ Hey SITers!
 This week, [Andrew](http://andrewjkerr.com) be giving a crash course in cross-site scripting (XSS) as well as providing some fun challenges to work on afterwards!
 
 Slides: [https://github.com/andrewjkerr/xss-presentation](https://github.com/andrewjkerr/xss-presentation)
+Challenge source: [https://github.com/andrewjkerr/xss-challenges](https://github.com/andrewjkerr/xss-challenges)
+
+(Note about the challenge server: it will only be up until next Wednesday! After that, you will have to host them locally.)
 
 <!-- more -->
 
