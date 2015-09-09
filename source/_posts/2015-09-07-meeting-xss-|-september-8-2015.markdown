@@ -10,6 +10,8 @@ Hey SITers!
 
 This week, [Andrew](http://andrewjkerr.com) be giving a crash course in cross-site scripting (XSS) as well as providing some fun challenges to work on afterwards!
 
+Slides: [https://github.com/andrewjkerr/xss-presentation](https://github.com/andrewjkerr/xss-presentation)
+
 <!-- more -->
 
 Also, while you won't need Kali this week, officers will be helping any of you that had trouble installing it (and, just in case you missed it, installation instructions can be found here: http://ufsit.org/blog/2015/09/04/kali-linux-vm-installation-instructions/).
