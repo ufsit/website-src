@@ -14,6 +14,24 @@ This week, we'll be talking about some client side tricks that can confuse (and 
 
 Hope to see you there!
 
+## Challenges:
+
+### canihazadmin
+
+Become an admin!
+
+https://canihazadmin.herokuapp.com
+
+### ROBOTS ONLY
+
+Get the key!
+
+http://lwapd.pythonanywhere.com/robot_club/?k=PfV54DzCVhXz
+
+### Some Arbitrary Website
+
+http://some.arbitrary.website/
+
 [Be Social!]  
 IRC: #ufsit on Freenode  
 Website: [http://www.ufsit.org](http://www.ufsit.org)  
