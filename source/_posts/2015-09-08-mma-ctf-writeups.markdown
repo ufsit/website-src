@@ -14,3 +14,4 @@ Last weekend, the SIT competed in [MMA CTF](https://uecmma.github.io/mmactf/) an
 
 - [Rock Paper SHELLCODE](http://sheepshellcode.com/blog/2015/09/08/mma-ctf-rock-paper-shellcode/) by Vincent Moscatello
 - [Login as admin!](http://andrewjkerr.com/blog/mma-ctf-writeup/) by Andrew Kerr
+- [Smart Cipher System, flag #4](https://gist.github.com/andrewjkerr/24b77be8ef07d3a88586) by Robert Munyer
