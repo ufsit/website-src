@@ -4,7 +4,7 @@
 
 url: http://ufsit.github.io
 title: UF Student InfoSec Team
-subtitle: Tuesdays from 6-7pm in CSE E309
+subtitle: Thursdays from 6:30-7:30pm in CSE E309
 author: UFSIT
 simple_search: https://www.google.com/search
 description:
@@ -108,7 +108,7 @@ social:
   adn: # App.net
   dribbble:
   facebook:
-    user: ufsit
+    user: groups/ufsit
     app_id:
   github:
     user: ufsit
