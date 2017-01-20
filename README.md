@@ -78,5 +78,3 @@ cd _deploy
 ## Github Pages deploy complete
 cd -
 ```
-git clone git@github.com:ufsit/ufsit.github.io.git _deploy
-
