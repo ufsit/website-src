@@ -10,7 +10,7 @@ Hey SIT! In this lecture, we will discuss essential linux utilities and protocol
 
 We will also be giving out our awesome new UFSIT shirts courtesy of Walmart. 
 
-Also, on Tuesday, April 18th, Facebook will be coming in for a short lecture about Web Security. Come by for an interesting topic and informal meet-n-greet with the Walmart Security team!
+Also, on Tuesday, April 18th, Facebook will be coming in for a short lecture about Web Security. Come by for an interesting topic and informal meet-n-greet with the Facebook Security team!
 
 <!-- MORE -->
 
