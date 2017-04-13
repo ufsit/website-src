@@ -6,7 +6,9 @@ comments: true
 categories: 
 ---
 
-Hey SIT! In this lecture, we will discuss essential linux utilities and protocols, learn how ports and services work, how to use them and how to pivot around terminals with ease. To the experienced hacker, the terminal is simply an extension of one's fingers. Come on out to train in the art of Command Line Kung Fu!
+Hey SIT! 
+
+In this lecture, we will discuss essential linux utilities and protocols, learn how ports and services work, how to use them and how to pivot around terminals with ease. To the experienced hacker, the terminal is simply an extension of one's fingers. Come on out to train in the art of Command Line Kung Fu!
 
 We will also be giving out our awesome new UFSIT shirts courtesy of Walmart. 
 
