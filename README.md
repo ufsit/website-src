@@ -32,9 +32,9 @@ $ rake generate # generate the site! (or you can use jekyll serve, but you need 
 2. Open 127.0.0.1:4000 in your browser
 
 ##Deploying to GitHub:
-0. set up your github RSA key
-1. `rake deploy`
-2. Follow prompts
+1. set up your github RSA key(google it)
+2. `rake deploy`
+3. Follow prompts
 
 If you are deploying for the first time, you will see an error message like
 ```
