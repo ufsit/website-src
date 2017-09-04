@@ -2,14 +2,14 @@ ufsit.github.io
 =================
 
 ## Setting up a Development Environment
-As this site uses Jekyll, you will need an up-to-date ruby setup. Along with ruby, you will need site specific plugin dependencies. Thankfully this is easily handled by the included Gemfile. Using `bundle` you are able to install every required Gem and you will be on your way. Here are the steps for Mac OSX with homebrew:
+As this site uses Jekyll, you will need an up-to-date ruby setup. Ruby is already installed on some Linux distros! Along with ruby, you will need site specific plugin dependencies. Thankfully this is easily handled by the included Gemfile. Using `bundle` you are able to install every required Gem and you will be on your way. Here are the steps for Mac OSX with homebrew:
 
 ```
 $ brew install ruby    # make sure you are getting ruby 2.3 or above
 $ pip install pygments # this assumes you have a python dev environment
                        # if not, check out guides online for getting pip
 $ gem install bundle   # make sure you have bundle
-website-src $ bundle check
+website-src $ bundle check #navigate to the website-src folder on your computer, then execute bundle check
 The Gemfile's dependencies are satisfied
 website-src $ bundle -v
 Bundler version 1.13.7
@@ -28,11 +28,11 @@ $ rake generate # generate the site! (or you can use jekyll serve, but you need 
 
 ##Viewing Site
 
-1. `jekyll serve`
+1. `jekyll serve` # you must do this after completing all of your changes so that the site is built!
 2. Open 127.0.0.1:4000 in your browser
 
 ##Deploying to GitHub:
-
+0. set up your github RSA key
 1. `rake deploy`
 2. Follow prompts
 
@@ -50,7 +50,7 @@ Errno::ENOENT: No such file or directory @ dir_chdir - _deploy
 Tasks: TOP => deploy
 (See full trace by running task with --trace)
 ```
-Do NOT use `rake setup_github_pages` as that will start with a fresh website history. Clone the existing deployed website raw files in to deploy in stead and THEN run `rake deploy`.
+Do NOT use `rake setup_github_pages` as that will start with a fresh website history. Clone the existing deployed website raw files as shown below into directory "\_deploy" instead and THEN run `rake deploy`.
 ```
 [grant ~/code/website-src >> git clone git@github.com:ufsit/ufsit.github.io.git _deploy
 Cloning into '_deploy'...
