@@ -32,6 +32,13 @@ if (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
   `chcp 65001`
 end
 
+# There are some questionable rm -rf's and systems() in this script.
+# Protect against catastrophic system damage
+if Process.uid == 0 or Process.euid == 0
+  puts "***** ARE YOU INSANE?? -- *Never* execute this Rakefile as root."
+  exit 1
+end
+
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"
 task :install, :theme do |t, args|
   if File.directory?(source_dir) || File.directory?("sass")
@@ -51,6 +58,14 @@ end
 #######################
 # Working with Jekyll #
 #######################
+
+desc "Generate jekyll site"
+task :generate do
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
+  puts "## Generating Site with Jekyll"
+  system "compass compile --css-dir #{source_dir}/stylesheets"
+  system "jekyll build"
+end
 
 desc "Generate jekyll site"
 task :generate do
@@ -216,6 +231,9 @@ end
 
 desc "Default deploy task"
 task :deploy do
+  # Ensure that the working tree is in a good state to be deployed
+  working_tree_safe?
+
   # Check if preview posts exist, which should not be published
   if File.exists?(".preview-mode")
     puts "## Found posts in preview mode, regenerating files ..."
@@ -396,6 +414,42 @@ def blog_url(user, project)
   url += "/#{project}" unless project == ''
   url
 end
+
+def working_tree_safe?
+  if `git symbolic-ref -q --short HEAD`.strip() != "master"
+    raise "You MUST only deploy changes from the git master branch.\n" +
+      "If you are working in a development branch, open a pull-request on Github\n" +
+      "or just merge your changes in to master, push, then redeploy."
+  end
+
+  modified_files = `git diff-index HEAD`
+
+  if not modified_files.empty?
+    files = []
+    for f in modified_files.split("\n")
+
+      files += [f.split("\t")[1]]
+    end
+
+    raise "Please commit or stash changes to [" + files.join(", ") + "] before deploying."
+  end
+
+  puts "### Fetching latest changes from remote repository..."
+  system "git fetch"
+
+  origin_master = `git rev-list --max-count=1 origin/master`
+  master = `git rev-list --max-count=1 master`
+
+  if origin_master != master
+    raise "Your changes are NOT the latest on the remote master branch.\n" +
+      "To fix this:\n" +
+      "  1. Pull the latest changes `git pull --rebase`\n" +
+      "  2. Push your new commits to the upstream `git push`\n" +
+      "  3. Redeploy\n" +
+      "If you run in to problems NEVER FORCE PUSH! Ask for help.\n"
+  end
+end
+
 
 desc "list tasks"
 task :list do

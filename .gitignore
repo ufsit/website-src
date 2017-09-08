@@ -2,3 +2,5 @@ public/
 _deploy/
 
 .sass-cache/*
+*.swp
+*.swo
