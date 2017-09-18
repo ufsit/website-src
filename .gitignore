@@ -1,6 +1,9 @@
 public/
 _deploy/
 
+# Mac crap
+.DS_STORE
+
 .sass-cache/*
 *.swp
 *.swo
