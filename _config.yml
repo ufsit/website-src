@@ -8,6 +8,7 @@ subtitle: Thursdays from 6:30-7:30pm in CSE E309
 author: UFSIT
 simple_search: https://www.google.com/search
 description:
+gravatar: false
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
