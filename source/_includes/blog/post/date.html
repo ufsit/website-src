@@ -1,0 +1,17 @@
+{% capture date %}{{ page.date }}{{ post.date }}{% endcapture %}
+{% capture date_formatted %}{{ page.date_text }}{{ post.date_text }}{% endcapture %}
+{% capture time_formatted %}{{ page.time_text }}{{ post.time_text }}{% endcapture %}
+{% capture has_date %}{{ date | size }}{% endcapture %}
+
+{% capture updated %}{{ page.updated }}{{ post.updated }}{% endcapture %}
+{% capture updated_date_formatted %}{{ page.date_updated_text }}{{ post.date_updated_text }}{% endcapture %}
+{% capture updated_time_formatted %}{{ page.time_updated_text }}{{ post.time_updated_text }}{% endcapture %}
+{% capture was_updated %}{{ updated | size }}{% endcapture %}
+
+{% if has_date != '0' %}
+{% capture time %}<time class="pull-left" datetime="{{ date | datetime | date_to_xmlschema }}" pubdate{% if updated %} data-updated="true"{% endif %}><i class="icon-calendar"></i> {{ date_formatted }}, {{ time_formatted }}</time>{% endcapture %}
+{% endif %}
+
+{% if was_updated != '0' %}
+  {% capture updated %}<time class="pull-left" datetime="{{ updated | datetime | date_to_xmlschema }}" class="updated">Updated {{ updated_date_formatted }}, {{ updated_time_formatted }}</time>{% endcapture %}
+{% else %}{% assign updated = false %}{% endif %}
