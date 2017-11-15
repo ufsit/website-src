@@ -21,17 +21,17 @@ website-src $ bundle install # in the site directory, install all of the require
 $ rake generate # generate the site! (or you can use jekyll serve, but you need compass for the SASS)
 ```
 
-##Creating a new post:
+## Creating a new post:
 
 1. `rake new_post["post title"]`
 2. Edit post in `source/_posts/yyyy-mm-dd-post-title.markdown`
 
-##Viewing Site
+## Viewing Site
 
 1. `jekyll serve` # you must do this after completing all of your changes so that the site is built!
 2. Open 127.0.0.1:4000 in your browser
 
-##Deploying to GitHub:
+## Deploying to GitHub:
 1. set up your github RSA key(google it)
 2. `rake deploy`
 3. Follow prompts
