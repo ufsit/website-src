@@ -414,8 +414,14 @@ def working_tree_safe?
       "or just merge your changes in to master, push, then redeploy."
   end
 
+  # Force git to walk the entire working tree and re-diff the files
+  # This fixes an issue where compass was changing the mtime of the stylesheet.css
+  # Which was causing diff-index to show a "modified" file (only its mtime was changed)
+  system "git status --porcelain > /dev/null"
+
   modified_files = `git diff-index HEAD`
 
+  puts modified_files
   if not modified_files.empty?
     files = []
     for f in modified_files.split("\n")
