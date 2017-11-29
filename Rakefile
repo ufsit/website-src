@@ -67,14 +67,6 @@ task :generate do
   system "jekyll build"
 end
 
-desc "Generate jekyll site"
-task :generate do
-  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
-  puts "## Generating Site with Jekyll"
-  system "compass compile --css-dir #{source_dir}/stylesheets"
-  system "jekyll build"
-end
-
 desc "Watch the site and regenerate when it changes"
 task :watch do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
@@ -229,8 +221,12 @@ end
 # Deploying  #
 ##############
 
-desc "Default deploy task"
-task :deploy do
+desc "Generate website and deploy"
+  task :deploy => [:integrate, :generate, :deploy_oneshot] do
+end
+
+desc "Default deploy task (assumes that the site is already built)"
+task :deploy_oneshot do
   # Ensure that the working tree is in a good state to be deployed
   working_tree_safe?
 
@@ -243,10 +239,6 @@ task :deploy do
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
   Rake::Task["#{deploy_default}"].execute
-end
-
-desc "Generate website and deploy"
-task :gen_deploy => [:integrate, :generate, :deploy] do
 end
 
 desc "copy dot files for deployment"
