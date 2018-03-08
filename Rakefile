@@ -67,14 +67,6 @@ task :generate do
   system "jekyll build"
 end
 
-desc "Generate jekyll site"
-task :generate do
-  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
-  puts "## Generating Site with Jekyll"
-  system "compass compile --css-dir #{source_dir}/stylesheets"
-  system "jekyll build"
-end
-
 desc "Watch the site and regenerate when it changes"
 task :watch do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
@@ -229,8 +221,12 @@ end
 # Deploying  #
 ##############
 
-desc "Default deploy task"
-task :deploy do
+desc "Generate website and deploy"
+  task :deploy => [:integrate, :generate, :deploy_oneshot] do
+end
+
+desc "Default deploy task (assumes that the site is already built)"
+task :deploy_oneshot do
   # Ensure that the working tree is in a good state to be deployed
   working_tree_safe?
 
@@ -245,13 +241,9 @@ task :deploy do
   Rake::Task["#{deploy_default}"].execute
 end
 
-desc "Generate website and deploy"
-task :gen_deploy => [:integrate, :generate, :deploy] do
-end
-
 desc "copy dot files for deployment"
 task :copydot, :source, :dest do |t, args|
-  FileList["#{args.source}/**/.*"].exclude("**/.", "**/..", "**/.DS_Store", "**/._*").each do |file|
+  FileList["#{args.source}/**/.*"].exclude("**/.", "**/..", "**/.DS_Store", "**/._*", "**/.gitignore").each do |file|
     cp_r file, file.gsub(/#{args.source}/, "#{args.dest}") unless File.directory?(file)
   end
 end
@@ -422,8 +414,14 @@ def working_tree_safe?
       "or just merge your changes in to master, push, then redeploy."
   end
 
+  # Force git to walk the entire working tree and re-diff the files
+  # This fixes an issue where compass was changing the mtime of the stylesheet.css
+  # Which was causing diff-index to show a "modified" file (only its mtime was changed)
+  system "git status --porcelain > /dev/null"
+
   modified_files = `git diff-index HEAD`
 
+  puts modified_files
   if not modified_files.empty?
     files = []
     for f in modified_files.split("\n")
