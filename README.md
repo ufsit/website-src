@@ -21,6 +21,16 @@ website-src $ bundle install # in the site directory, install all of the require
 $ rake generate # generate the site! (or you can use jekyll serve, but you need compass for the SASS)
 ```
 
+### Using Docker for development
+
+There is an included Dockerfile and docker-compose that will auto-generate a development container for this project.
+
+To build the image             :  `docker build . -t ufsit/website:dev`
+
+To run the development server  :  `docker-compose up -d`
+
+To stop the development server :  `docker-compose down`
+
 ## Creating a new post:
 
 1. `rake new_post["post title"]`
