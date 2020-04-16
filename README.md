@@ -20,7 +20,7 @@ ruby 2.3.3p222 (2016-11-21 revision 56859) [x86_64-darwin15]
 website-src $ bundle install # in the site directory, install all of the required dependencies
 $ rake generate # generate the site! (or you can use jekyll serve, but you need compass for the SASS)
 ```
-
+Note that the Gemfile specifies needing Ruby version 2.6.5 specifically when checking Bundle inside the repo, which can be resolved if you don't have the version with `rvm install "ruby-2.6.5"` and then running `bundle update` to have bundle redownload the gems to the Ruby version.
 ## Creating a new post:
 
 1. `rake new_post["post title"]`
