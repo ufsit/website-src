@@ -12,11 +12,11 @@ $ gem install bundle   # make sure you have bundle
 website-src $ bundle check #navigate to the website-src folder on your computer, then execute bundle check
 The Gemfile's dependencies are satisfied
 website-src $ bundle -v
-Bundler version 1.13.7
+Bundler version 1.17.3
 website-src $ gem -v
 2.5.2
 website-src $ ruby -v
-ruby 2.3.3p222 (2016-11-21 revision 56859) [x86_64-darwin15]
+ruby 2.3.3p222 (2016-11-21 revision 56859) [x86_64-darwin15] # Please use Ruby 2.6.5!!!!
 website-src $ bundle install # in the site directory, install all of the required dependencies
 $ rake generate # generate the site! (or you can use jekyll serve, but you need compass for the SASS)
 $ jekyll serve # optional if using jekyll build
